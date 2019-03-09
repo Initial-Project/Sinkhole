@@ -1,6 +1,6 @@
 # Sinkhole
 
-语言: [英语](https://github.com/InitialCraft/Sinkhole/blob/master/Readme.md) [中文](https://github.com/InitialCraft/Sinkhole/blob/master/Readme_zh_CN.md)
+语言: [英语](https://github.com/InitialCraft/Sinkhole/blob/master/Readme.md) [中文](https://github.com/InitialCraft/Sinkhole/blob/master/Readme_zh_CN.md) [日语](https://github.com/InitialCraft/Sinkhole/blob/master/Readme_ja_JP.md)
 
 ## 简介
 
@@ -16,7 +16,7 @@
 
 ## 记录
 
-- [ ]  2019年3月9日
+- [x]  2019年3月9日
 
   
 
