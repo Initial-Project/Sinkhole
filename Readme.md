@@ -4,7 +4,7 @@ Language: [English](https://github.com/InitialCraft/Sinkhole/blob/master/Readme.
 
 ## Introduction
 
-Record the Initial Craft fill. Updated twice a week.
+Record the Initial Craft fill. Updated twice every two weeks.
 
 
 
@@ -19,6 +19,8 @@ Record the Initial Craft fill. Updated twice a week.
 - [x] 09/03/2019
 
 - [x] 10/03/2019
+
+- [ ] 23/03/2019
 
   
 
